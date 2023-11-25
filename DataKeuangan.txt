@@ -1,0 +1,5 @@
+No	Tanggal	Uang Masuk	Uang Keluar	Saldo Akhir	Keterangan	
+1	25-11-2023	100000	0	100000	Sangu	
+2	24-11-2023	300000	0	400000	Dikasih	
+3	27-11-2023	0	200000	200000	Bayar Hutang	
+						
